@@ -1,0 +1,6 @@
+{
+  "name": "nse-stock-screener",
+  "version": "1.0.0",
+  "description": "NSE All Stocks Screener with Candlestick Charts",
+  "engines": { "node": "24.x" }
+}
